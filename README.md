@@ -16,6 +16,9 @@
 
 
 
+
+
+
 This is my decryption dumper I made over the last week. It's not been tested for a long time (mainly because I can't test myself lol) but I will keep updating it a bit.
 
 It works similar to the dumper moleskn has made (attach debugger then step though) so big thanks for that @moleskn. However, you probably have to admit yourself the code is a mess so i decided to fix it up.
